@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-invoke-dialer",
-  "version": "0.0.1",
-  "description": "invoke the dial for tel: intent",
+  "name": "invokedialer",
+  "version": "0.1.0",
+  "description": "invoke the dialer",
   "cordova": {
-    "id": "cordova-plugin-invoke-dialer",
+    "id": "invokedialer",
     "platforms": [
       "android"
     ]
