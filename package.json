@@ -1,0 +1,17 @@
+{
+  "name": "inokedialer",
+  "version": "0.1.0",
+  "description": "",
+  "cordova": {
+    "id": "inokedialer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Navnath A",
+  "license": "ISC"
+}
