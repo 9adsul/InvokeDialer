@@ -1,4 +1,4 @@
-package cordova-plugin-invoke-dialer;
+package cordova.invokedialer;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
