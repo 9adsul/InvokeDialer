@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-invokedialer",
   "cordova_name": "cordova-plugin-invokedialer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Invoke the dial application in android",
   "repository": {
         "type": "git",
