@@ -7,6 +7,10 @@ This plugin allows you to invoke the Dialer in the android mobile. This plugin u
 ### Installing
 
 Install the plugin 
+```
+cordova plugin add cordova-plugin-invokedialer
+```
+OR
 
 ```
 cordova plugin add https://github.com/9adsul/InvokeDialer.git
