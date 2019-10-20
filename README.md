@@ -12,11 +12,9 @@ Install the plugin
 cordova plugin add https://github.com/9adsul/InvokeDialer.git
 ```
 
-cordova.plugins.InvokeDial.invokeDial(number, successCallback,errorCallback);
+### How to Use ?
 
-## How to Use ?
-
-### cordova.plugins.InvokeDial.invokeDial(number, successCallback,errorCallback)
+#### cordova.plugins.InvokeDial.invokeDial(number, successCallback,errorCallback)
 
 The `cordova.plugins.InvokeDial.invokeDial` function opens the device's default dial application.
 
