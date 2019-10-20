@@ -1,9 +1,9 @@
 {
-  "name": "inokedialer",
+  "name": "cordova-plugin-invokedialer",
   "version": "0.1.0",
   "description": "",
   "cordova": {
-    "id": "inokedialer",
+    "id": "cordova-plugin-invokedialer",
     "platforms": [
       "android"
     ]
