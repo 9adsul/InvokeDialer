@@ -1,16 +1,24 @@
 {
   "name": "cordova-plugin-invokedialer",
-  "version": "1.0.0",
-  "description": "",
+  "cordova_name": "cordova-plugin-invokedialer",
+  "version": "1.0.1",
+  "description": "Invoke the dial application in android",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/9adsul/InvokeDialer.git"
+    },
   "cordova": {
     "id": "cordova-plugin-invokedialer",
     "platforms": [
       "android"
     ]
   },
+  "issue": "https://github.com/9adsul/InvokeDialer/issues",
   "keywords": [
     "ecosystem:cordova",
-    "cordova-android"
+    "cordova-android",
+    "dialer",
+    "cordova"
   ],
   "author": "Navnath A",
   "license": "ISC"
